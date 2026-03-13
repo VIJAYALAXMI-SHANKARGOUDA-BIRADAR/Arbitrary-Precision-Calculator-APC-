@@ -63,8 +63,7 @@ gcc *.c
 
 Run the program:
 
-./a.out <num1> <operator> <num2>
-
+./a.out num1 operator num2
 Example:
 
 ./a.out 123456789 + 987654321
