@@ -55,6 +55,23 @@ End
 - Understanding carry and borrow operations
 - Application of data structures in real-world problems
 
+## Add How To Run
+
+## How to Compile and Run
+
+Compile the program:
+
+gcc *.c
+
+Run the program:
+
+./a.out <num1> <operator> <num2>
+
+Example:
+
+./a.out 123456789 + 987654321
+
+
 ## Sample Output
 
 
