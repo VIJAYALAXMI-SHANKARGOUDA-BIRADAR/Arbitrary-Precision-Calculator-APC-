@@ -5,7 +5,7 @@ Implementation of a big number calculator in C using a doubly linked list.
 
 This project implements an Arbitrary Precision Calculator in C that can perform arithmetic operations on very large numbers. Normal C data types like int or long have limited size, so they cannot store numbers with many digits. To overcome this limitation, this project stores numbers digit by digit using a Doubly Linked List, allowing calculations on numbers of any size limited only by system memory.
 
-#Features
+# Features
 
 >Supports large integer calculations beyond standard data type limits
 
@@ -82,6 +82,8 @@ Understanding carry and borrow operations
 Application of data structures in real-world problems
 
 # Sample output
+
+
 
 
 
