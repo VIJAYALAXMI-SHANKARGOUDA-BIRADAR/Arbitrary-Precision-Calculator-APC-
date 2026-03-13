@@ -87,6 +87,8 @@ Application of data structures in real-world problems
 
 # Sample output
 
+Screenshot 2026-03-13 170710.png
+
 
 
 
