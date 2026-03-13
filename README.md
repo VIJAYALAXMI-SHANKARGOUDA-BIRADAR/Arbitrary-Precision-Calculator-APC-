@@ -55,8 +55,6 @@ End
 - Understanding carry and borrow operations
 - Application of data structures in real-world problems
 
-## Add How To Run
-
 ## How to Compile and Run
 
 Compile the program:
